@@ -1,4 +1,6 @@
-# gulp-sass [![Build Status](https://travis-ci.org/dlmanning/gulp-sass.svg?branch=master)](https://travis-ci.org/dlmanning/gulp-sass) [![Join the chat at https://gitter.im/dlmanning/gulp-sass](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dlmanning/gulp-sass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![npm version](https://badge.fury.io/js/gulp-sass.svg)](http://badge.fury.io/js/gulp-sass)
+# gulp-sass
+
+A fork of the [dlmanning/gulp-sass](https://github.com/dlmanning/gulp-sass) project.
 
 Sass plugin for [Gulp](https://github.com/gulpjs/gulp).
 
